@@ -1,0 +1,1615 @@
+{
+    "creatureNames": {},
+    "floorDistribution": [
+        {
+            "floor": 0,
+            "tiles": 3420
+        },
+        {
+            "floor": 1,
+            "tiles": 8140
+        },
+        {
+            "floor": 2,
+            "tiles": 19579
+        },
+        {
+            "floor": 3,
+            "tiles": 43037
+        },
+        {
+            "floor": 4,
+            "tiles": 86678
+        },
+        {
+            "floor": 5,
+            "tiles": 183648
+        },
+        {
+            "floor": 6,
+            "tiles": 308877
+        },
+        {
+            "floor": 7,
+            "tiles": 3343199
+        },
+        {
+            "floor": 8,
+            "tiles": 829950
+        },
+        {
+            "floor": 9,
+            "tiles": 687712
+        },
+        {
+            "floor": 10,
+            "tiles": 520084
+        },
+        {
+            "floor": 11,
+            "tiles": 410414
+        },
+        {
+            "floor": 12,
+            "tiles": 346556
+        },
+        {
+            "floor": 13,
+            "tiles": 258451
+        },
+        {
+            "floor": 14,
+            "tiles": 200165
+        },
+        {
+            "floor": 15,
+            "tiles": 154777
+        }
+    ],
+    "houseIds": [
+        {
+            "houseId": 185,
+            "tiles": 756
+        },
+        {
+            "houseId": 256,
+            "tiles": 723
+        },
+        {
+            "houseId": 147,
+            "tiles": 681
+        },
+        {
+            "houseId": 24,
+            "tiles": 653
+        },
+        {
+            "houseId": 160,
+            "tiles": 614
+        },
+        {
+            "houseId": 253,
+            "tiles": 553
+        },
+        {
+            "houseId": 254,
+            "tiles": 553
+        },
+        {
+            "houseId": 189,
+            "tiles": 495
+        },
+        {
+            "houseId": 26,
+            "tiles": 492
+        },
+        {
+            "houseId": 187,
+            "tiles": 454
+        },
+        {
+            "houseId": 273,
+            "tiles": 453
+        },
+        {
+            "houseId": 255,
+            "tiles": 432
+        },
+        {
+            "houseId": 205,
+            "tiles": 420
+        },
+        {
+            "houseId": 186,
+            "tiles": 412
+        },
+        {
+            "houseId": 25,
+            "tiles": 367
+        },
+        {
+            "houseId": 153,
+            "tiles": 358
+        },
+        {
+            "houseId": 206,
+            "tiles": 357
+        },
+        {
+            "houseId": 88,
+            "tiles": 354
+        },
+        {
+            "houseId": 89,
+            "tiles": 346
+        },
+        {
+            "houseId": 141,
+            "tiles": 345
+        },
+        {
+            "houseId": 146,
+            "tiles": 339
+        },
+        {
+            "houseId": 201,
+            "tiles": 302
+        },
+        {
+            "houseId": 181,
+            "tiles": 298
+        },
+        {
+            "houseId": 182,
+            "tiles": 291
+        },
+        {
+            "houseId": 53,
+            "tiles": 271
+        },
+        {
+            "houseId": 241,
+            "tiles": 264
+        },
+        {
+            "houseId": 179,
+            "tiles": 257
+        },
+        {
+            "houseId": 188,
+            "tiles": 251
+        },
+        {
+            "houseId": 197,
+            "tiles": 247
+        },
+        {
+            "houseId": 356,
+            "tiles": 238
+        },
+        {
+            "houseId": 183,
+            "tiles": 237
+        },
+        {
+            "houseId": 265,
+            "tiles": 231
+        },
+        {
+            "houseId": 190,
+            "tiles": 227
+        },
+        {
+            "houseId": 158,
+            "tiles": 225
+        },
+        {
+            "houseId": 210,
+            "tiles": 225
+        },
+        {
+            "houseId": 159,
+            "tiles": 215
+        },
+        {
+            "houseId": 164,
+            "tiles": 215
+        },
+        {
+            "houseId": 176,
+            "tiles": 214
+        },
+        {
+            "houseId": 184,
+            "tiles": 209
+        },
+        {
+            "houseId": 108,
+            "tiles": 205
+        },
+        {
+            "houseId": 163,
+            "tiles": 198
+        },
+        {
+            "houseId": 95,
+            "tiles": 198
+        },
+        {
+            "houseId": 178,
+            "tiles": 193
+        },
+        {
+            "houseId": 148,
+            "tiles": 192
+        },
+        {
+            "houseId": 98,
+            "tiles": 192
+        },
+        {
+            "houseId": 263,
+            "tiles": 191
+        },
+        {
+            "houseId": 97,
+            "tiles": 183
+        },
+        {
+            "houseId": 157,
+            "tiles": 182
+        },
+        {
+            "houseId": 109,
+            "tiles": 182
+        },
+        {
+            "houseId": 143,
+            "tiles": 179
+        },
+        {
+            "houseId": 220,
+            "tiles": 177
+        },
+        {
+            "houseId": 193,
+            "tiles": 174
+        },
+        {
+            "houseId": 134,
+            "tiles": 173
+        },
+        {
+            "houseId": 161,
+            "tiles": 172
+        },
+        {
+            "houseId": 122,
+            "tiles": 171
+        },
+        {
+            "houseId": 191,
+            "tiles": 170
+        },
+        {
+            "houseId": 211,
+            "tiles": 170
+        },
+        {
+            "houseId": 274,
+            "tiles": 169
+        },
+        {
+            "houseId": 180,
+            "tiles": 168
+        },
+        {
+            "houseId": 354,
+            "tiles": 167
+        },
+        {
+            "houseId": 162,
+            "tiles": 165
+        },
+        {
+            "houseId": 216,
+            "tiles": 162
+        },
+        {
+            "houseId": 208,
+            "tiles": 160
+        },
+        {
+            "houseId": 269,
+            "tiles": 153
+        },
+        {
+            "houseId": 329,
+            "tiles": 150
+        },
+        {
+            "houseId": 99,
+            "tiles": 147
+        },
+        {
+            "houseId": 156,
+            "tiles": 147
+        },
+        {
+            "houseId": 268,
+            "tiles": 146
+        },
+        {
+            "houseId": 87,
+            "tiles": 146
+        },
+        {
+            "houseId": 1,
+            "tiles": 143
+        },
+        {
+            "houseId": 199,
+            "tiles": 143
+        },
+        {
+            "houseId": 239,
+            "tiles": 142
+        },
+        {
+            "houseId": 240,
+            "tiles": 142
+        },
+        {
+            "houseId": 136,
+            "tiles": 140
+        },
+        {
+            "houseId": 215,
+            "tiles": 140
+        },
+        {
+            "houseId": 177,
+            "tiles": 137
+        },
+        {
+            "houseId": 9,
+            "tiles": 134
+        },
+        {
+            "houseId": 96,
+            "tiles": 133
+        },
+        {
+            "houseId": 150,
+            "tiles": 133
+        },
+        {
+            "houseId": 5,
+            "tiles": 132
+        },
+        {
+            "houseId": 63,
+            "tiles": 132
+        },
+        {
+            "houseId": 155,
+            "tiles": 132
+        },
+        {
+            "houseId": 198,
+            "tiles": 130
+        },
+        {
+            "houseId": 7,
+            "tiles": 129
+        },
+        {
+            "houseId": 151,
+            "tiles": 128
+        },
+        {
+            "houseId": 214,
+            "tiles": 128
+        },
+        {
+            "houseId": 213,
+            "tiles": 128
+        },
+        {
+            "houseId": 149,
+            "tiles": 128
+        },
+        {
+            "houseId": 200,
+            "tiles": 128
+        },
+        {
+            "houseId": 248,
+            "tiles": 128
+        },
+        {
+            "houseId": 322,
+            "tiles": 128
+        },
+        {
+            "houseId": 93,
+            "tiles": 124
+        },
+        {
+            "houseId": 264,
+            "tiles": 122
+        },
+        {
+            "houseId": 92,
+            "tiles": 120
+        },
+        {
+            "houseId": 123,
+            "tiles": 120
+        },
+        {
+            "houseId": 138,
+            "tiles": 118
+        },
+        {
+            "houseId": 111,
+            "tiles": 117
+        },
+        {
+            "houseId": 114,
+            "tiles": 116
+        },
+        {
+            "houseId": 124,
+            "tiles": 116
+        },
+        {
+            "houseId": 6,
+            "tiles": 113
+        },
+        {
+            "houseId": 235,
+            "tiles": 113
+        },
+        {
+            "houseId": 142,
+            "tiles": 113
+        },
+        {
+            "houseId": 27,
+            "tiles": 112
+        },
+        {
+            "houseId": 247,
+            "tiles": 112
+        },
+        {
+            "houseId": 249,
+            "tiles": 112
+        },
+        {
+            "houseId": 337,
+            "tiles": 112
+        },
+        {
+            "houseId": 250,
+            "tiles": 112
+        },
+        {
+            "houseId": 257,
+            "tiles": 112
+        },
+        {
+            "houseId": 137,
+            "tiles": 111
+        },
+        {
+            "houseId": 203,
+            "tiles": 110
+        },
+        {
+            "houseId": 192,
+            "tiles": 110
+        },
+        {
+            "houseId": 91,
+            "tiles": 108
+        },
+        {
+            "houseId": 85,
+            "tiles": 106
+        },
+        {
+            "houseId": 125,
+            "tiles": 106
+        },
+        {
+            "houseId": 106,
+            "tiles": 106
+        },
+        {
+            "houseId": 234,
+            "tiles": 105
+        },
+        {
+            "houseId": 35,
+            "tiles": 105
+        },
+        {
+            "houseId": 272,
+            "tiles": 104
+        },
+        {
+            "houseId": 209,
+            "tiles": 104
+        },
+        {
+            "houseId": 13,
+            "tiles": 103
+        },
+        {
+            "houseId": 12,
+            "tiles": 102
+        },
+        {
+            "houseId": 152,
+            "tiles": 100
+        },
+        {
+            "houseId": 245,
+            "tiles": 98
+        },
+        {
+            "houseId": 275,
+            "tiles": 98
+        },
+        {
+            "houseId": 56,
+            "tiles": 98
+        },
+        {
+            "houseId": 266,
+            "tiles": 98
+        },
+        {
+            "houseId": 246,
+            "tiles": 98
+        },
+        {
+            "houseId": 64,
+            "tiles": 98
+        },
+        {
+            "houseId": 338,
+            "tiles": 96
+        },
+        {
+            "houseId": 145,
+            "tiles": 96
+        },
+        {
+            "houseId": 62,
+            "tiles": 96
+        },
+        {
+            "houseId": 18,
+            "tiles": 95
+        },
+        {
+            "houseId": 119,
+            "tiles": 94
+        },
+        {
+            "houseId": 175,
+            "tiles": 94
+        },
+        {
+            "houseId": 22,
+            "tiles": 93
+        },
+        {
+            "houseId": 72,
+            "tiles": 93
+        },
+        {
+            "houseId": 154,
+            "tiles": 91
+        },
+        {
+            "houseId": 11,
+            "tiles": 91
+        },
+        {
+            "houseId": 115,
+            "tiles": 89
+        },
+        {
+            "houseId": 20,
+            "tiles": 88
+        },
+        {
+            "houseId": 112,
+            "tiles": 87
+        },
+        {
+            "houseId": 353,
+            "tiles": 87
+        },
+        {
+            "houseId": 221,
+            "tiles": 84
+        },
+        {
+            "houseId": 204,
+            "tiles": 84
+        },
+        {
+            "houseId": 14,
+            "tiles": 84
+        },
+        {
+            "houseId": 222,
+            "tiles": 84
+        },
+        {
+            "houseId": 303,
+            "tiles": 84
+        },
+        {
+            "houseId": 3,
+            "tiles": 84
+        },
+        {
+            "houseId": 116,
+            "tiles": 83
+        },
+        {
+            "houseId": 54,
+            "tiles": 82
+        },
+        {
+            "houseId": 218,
+            "tiles": 81
+        },
+        {
+            "houseId": 212,
+            "tiles": 81
+        },
+        {
+            "houseId": 74,
+            "tiles": 81
+        },
+        {
+            "houseId": 101,
+            "tiles": 81
+        },
+        {
+            "houseId": 306,
+            "tiles": 81
+        },
+        {
+            "houseId": 231,
+            "tiles": 80
+        },
+        {
+            "houseId": 2,
+            "tiles": 80
+        },
+        {
+            "houseId": 69,
+            "tiles": 80
+        },
+        {
+            "houseId": 73,
+            "tiles": 80
+        },
+        {
+            "houseId": 229,
+            "tiles": 80
+        },
+        {
+            "houseId": 308,
+            "tiles": 78
+        },
+        {
+            "houseId": 110,
+            "tiles": 78
+        },
+        {
+            "houseId": 90,
+            "tiles": 77
+        },
+        {
+            "houseId": 325,
+            "tiles": 77
+        },
+        {
+            "houseId": 202,
+            "tiles": 77
+        },
+        {
+            "houseId": 78,
+            "tiles": 77
+        },
+        {
+            "houseId": 65,
+            "tiles": 77
+        },
+        {
+            "houseId": 58,
+            "tiles": 77
+        },
+        {
+            "houseId": 33,
+            "tiles": 77
+        },
+        {
+            "houseId": 324,
+            "tiles": 77
+        },
+        {
+            "houseId": 295,
+            "tiles": 77
+        },
+        {
+            "houseId": 113,
+            "tiles": 75
+        },
+        {
+            "houseId": 341,
+            "tiles": 72
+        },
+        {
+            "houseId": 135,
+            "tiles": 72
+        },
+        {
+            "houseId": 217,
+            "tiles": 72
+        },
+        {
+            "houseId": 31,
+            "tiles": 71
+        },
+        {
+            "houseId": 223,
+            "tiles": 70
+        },
+        {
+            "houseId": 316,
+            "tiles": 70
+        },
+        {
+            "houseId": 233,
+            "tiles": 70
+        },
+        {
+            "houseId": 267,
+            "tiles": 70
+        },
+        {
+            "houseId": 219,
+            "tiles": 70
+        },
+        {
+            "houseId": 225,
+            "tiles": 70
+        },
+        {
+            "houseId": 224,
+            "tiles": 70
+        },
+        {
+            "houseId": 107,
+            "tiles": 70
+        },
+        {
+            "houseId": 290,
+            "tiles": 69
+        },
+        {
+            "houseId": 127,
+            "tiles": 68
+        },
+        {
+            "houseId": 117,
+            "tiles": 66
+        },
+        {
+            "houseId": 49,
+            "tiles": 66
+        },
+        {
+            "houseId": 320,
+            "tiles": 66
+        },
+        {
+            "houseId": 120,
+            "tiles": 66
+        },
+        {
+            "houseId": 100,
+            "tiles": 65
+        },
+        {
+            "houseId": 94,
+            "tiles": 65
+        },
+        {
+            "houseId": 67,
+            "tiles": 65
+        },
+        {
+            "houseId": 38,
+            "tiles": 65
+        },
+        {
+            "houseId": 258,
+            "tiles": 64
+        },
+        {
+            "houseId": 70,
+            "tiles": 64
+        },
+        {
+            "houseId": 238,
+            "tiles": 64
+        },
+        {
+            "houseId": 260,
+            "tiles": 64
+        },
+        {
+            "houseId": 283,
+            "tiles": 64
+        },
+        {
+            "houseId": 282,
+            "tiles": 64
+        },
+        {
+            "houseId": 271,
+            "tiles": 64
+        },
+        {
+            "houseId": 195,
+            "tiles": 64
+        },
+        {
+            "houseId": 326,
+            "tiles": 63
+        },
+        {
+            "houseId": 102,
+            "tiles": 63
+        },
+        {
+            "houseId": 59,
+            "tiles": 63
+        },
+        {
+            "houseId": 118,
+            "tiles": 62
+        },
+        {
+            "houseId": 34,
+            "tiles": 62
+        },
+        {
+            "houseId": 17,
+            "tiles": 61
+        },
+        {
+            "houseId": 261,
+            "tiles": 61
+        },
+        {
+            "houseId": 15,
+            "tiles": 61
+        },
+        {
+            "houseId": 16,
+            "tiles": 60
+        },
+        {
+            "houseId": 76,
+            "tiles": 60
+        },
+        {
+            "houseId": 345,
+            "tiles": 60
+        },
+        {
+            "houseId": 291,
+            "tiles": 60
+        },
+        {
+            "houseId": 230,
+            "tiles": 60
+        },
+        {
+            "houseId": 60,
+            "tiles": 60
+        },
+        {
+            "houseId": 227,
+            "tiles": 60
+        },
+        {
+            "houseId": 43,
+            "tiles": 60
+        },
+        {
+            "houseId": 55,
+            "tiles": 60
+        },
+        {
+            "houseId": 350,
+            "tiles": 60
+        },
+        {
+            "houseId": 226,
+            "tiles": 60
+        },
+        {
+            "houseId": 310,
+            "tiles": 60
+        },
+        {
+            "houseId": 10,
+            "tiles": 58
+        },
+        {
+            "houseId": 328,
+            "tiles": 57
+        },
+        {
+            "houseId": 276,
+            "tiles": 56
+        },
+        {
+            "houseId": 28,
+            "tiles": 56
+        },
+        {
+            "houseId": 280,
+            "tiles": 56
+        },
+        {
+            "houseId": 277,
+            "tiles": 56
+        },
+        {
+            "houseId": 81,
+            "tiles": 56
+        },
+        {
+            "houseId": 279,
+            "tiles": 56
+        },
+        {
+            "houseId": 259,
+            "tiles": 56
+        },
+        {
+            "houseId": 278,
+            "tiles": 56
+        },
+        {
+            "houseId": 244,
+            "tiles": 56
+        },
+        {
+            "houseId": 237,
+            "tiles": 56
+        },
+        {
+            "houseId": 242,
+            "tiles": 56
+        },
+        {
+            "houseId": 207,
+            "tiles": 56
+        },
+        {
+            "houseId": 243,
+            "tiles": 56
+        },
+        {
+            "houseId": 83,
+            "tiles": 56
+        },
+        {
+            "houseId": 50,
+            "tiles": 56
+        },
+        {
+            "houseId": 339,
+            "tiles": 56
+        },
+        {
+            "houseId": 196,
+            "tiles": 56
+        },
+        {
+            "houseId": 323,
+            "tiles": 56
+        },
+        {
+            "houseId": 281,
+            "tiles": 56
+        },
+        {
+            "houseId": 228,
+            "tiles": 55
+        },
+        {
+            "houseId": 332,
+            "tiles": 55
+        },
+        {
+            "houseId": 37,
+            "tiles": 55
+        },
+        {
+            "houseId": 71,
+            "tiles": 54
+        },
+        {
+            "houseId": 75,
+            "tiles": 54
+        },
+        {
+            "houseId": 293,
+            "tiles": 54
+        },
+        {
+            "houseId": 330,
+            "tiles": 54
+        },
+        {
+            "houseId": 36,
+            "tiles": 54
+        },
+        {
+            "houseId": 292,
+            "tiles": 54
+        },
+        {
+            "houseId": 61,
+            "tiles": 54
+        },
+        {
+            "houseId": 40,
+            "tiles": 54
+        },
+        {
+            "houseId": 77,
+            "tiles": 53
+        },
+        {
+            "houseId": 347,
+            "tiles": 53
+        },
+        {
+            "houseId": 131,
+            "tiles": 53
+        },
+        {
+            "houseId": 133,
+            "tiles": 52
+        },
+        {
+            "houseId": 344,
+            "tiles": 52
+        },
+        {
+            "houseId": 80,
+            "tiles": 50
+        },
+        {
+            "houseId": 126,
+            "tiles": 50
+        },
+        {
+            "houseId": 57,
+            "tiles": 50
+        },
+        {
+            "houseId": 194,
+            "tiles": 49
+        },
+        {
+            "houseId": 82,
+            "tiles": 49
+        },
+        {
+            "houseId": 121,
+            "tiles": 49
+        },
+        {
+            "houseId": 236,
+            "tiles": 49
+        },
+        {
+            "houseId": 346,
+            "tiles": 48
+        },
+        {
+            "houseId": 348,
+            "tiles": 48
+        },
+        {
+            "houseId": 321,
+            "tiles": 48
+        },
+        {
+            "houseId": 349,
+            "tiles": 48
+        },
+        {
+            "houseId": 331,
+            "tiles": 48
+        },
+        {
+            "houseId": 84,
+            "tiles": 48
+        },
+        {
+            "houseId": 21,
+            "tiles": 48
+        },
+        {
+            "houseId": 42,
+            "tiles": 48
+        },
+        {
+            "houseId": 132,
+            "tiles": 48
+        },
+        {
+            "houseId": 4,
+            "tiles": 48
+        },
+        {
+            "houseId": 130,
+            "tiles": 48
+        },
+        {
+            "houseId": 48,
+            "tiles": 46
+        },
+        {
+            "houseId": 302,
+            "tiles": 45
+        },
+        {
+            "houseId": 319,
+            "tiles": 45
+        },
+        {
+            "houseId": 79,
+            "tiles": 45
+        },
+        {
+            "houseId": 39,
+            "tiles": 45
+        },
+        {
+            "houseId": 8,
+            "tiles": 44
+        },
+        {
+            "houseId": 317,
+            "tiles": 44
+        },
+        {
+            "houseId": 139,
+            "tiles": 43
+        },
+        {
+            "houseId": 66,
+            "tiles": 43
+        },
+        {
+            "houseId": 46,
+            "tiles": 43
+        },
+        {
+            "houseId": 129,
+            "tiles": 42
+        },
+        {
+            "houseId": 313,
+            "tiles": 42
+        },
+        {
+            "houseId": 128,
+            "tiles": 42
+        },
+        {
+            "houseId": 144,
+            "tiles": 42
+        },
+        {
+            "houseId": 251,
+            "tiles": 42
+        },
+        {
+            "houseId": 351,
+            "tiles": 42
+        },
+        {
+            "houseId": 252,
+            "tiles": 42
+        },
+        {
+            "houseId": 299,
+            "tiles": 40
+        },
+        {
+            "houseId": 300,
+            "tiles": 40
+        },
+        {
+            "houseId": 47,
+            "tiles": 40
+        },
+        {
+            "houseId": 232,
+            "tiles": 40
+        },
+        {
+            "houseId": 336,
+            "tiles": 40
+        },
+        {
+            "houseId": 298,
+            "tiles": 40
+        },
+        {
+            "houseId": 19,
+            "tiles": 36
+        },
+        {
+            "houseId": 270,
+            "tiles": 36
+        },
+        {
+            "houseId": 45,
+            "tiles": 36
+        },
+        {
+            "houseId": 296,
+            "tiles": 36
+        },
+        {
+            "houseId": 352,
+            "tiles": 36
+        },
+        {
+            "houseId": 294,
+            "tiles": 36
+        },
+        {
+            "houseId": 304,
+            "tiles": 36
+        },
+        {
+            "houseId": 68,
+            "tiles": 36
+        },
+        {
+            "houseId": 312,
+            "tiles": 35
+        },
+        {
+            "houseId": 140,
+            "tiles": 35
+        },
+        {
+            "houseId": 86,
+            "tiles": 35
+        },
+        {
+            "houseId": 355,
+            "tiles": 34
+        },
+        {
+            "houseId": 343,
+            "tiles": 33
+        },
+        {
+            "houseId": 342,
+            "tiles": 33
+        },
+        {
+            "houseId": 105,
+            "tiles": 32
+        },
+        {
+            "houseId": 103,
+            "tiles": 32
+        },
+        {
+            "houseId": 52,
+            "tiles": 32
+        },
+        {
+            "houseId": 340,
+            "tiles": 30
+        },
+        {
+            "houseId": 104,
+            "tiles": 30
+        },
+        {
+            "houseId": 333,
+            "tiles": 30
+        },
+        {
+            "houseId": 32,
+            "tiles": 30
+        },
+        {
+            "houseId": 327,
+            "tiles": 30
+        },
+        {
+            "houseId": 289,
+            "tiles": 30
+        },
+        {
+            "houseId": 311,
+            "tiles": 30
+        },
+        {
+            "houseId": 301,
+            "tiles": 30
+        },
+        {
+            "houseId": 305,
+            "tiles": 30
+        },
+        {
+            "houseId": 30,
+            "tiles": 30
+        },
+        {
+            "houseId": 286,
+            "tiles": 30
+        },
+        {
+            "houseId": 29,
+            "tiles": 29
+        },
+        {
+            "houseId": 41,
+            "tiles": 28
+        },
+        {
+            "houseId": 51,
+            "tiles": 26
+        },
+        {
+            "houseId": 288,
+            "tiles": 25
+        },
+        {
+            "houseId": 287,
+            "tiles": 25
+        },
+        {
+            "houseId": 307,
+            "tiles": 25
+        },
+        {
+            "houseId": 318,
+            "tiles": 25
+        },
+        {
+            "houseId": 334,
+            "tiles": 25
+        },
+        {
+            "houseId": 335,
+            "tiles": 25
+        },
+        {
+            "houseId": 309,
+            "tiles": 25
+        },
+        {
+            "houseId": 23,
+            "tiles": 24
+        },
+        {
+            "houseId": 285,
+            "tiles": 20
+        },
+        {
+            "houseId": 44,
+            "tiles": 20
+        },
+        {
+            "houseId": 314,
+            "tiles": 20
+        },
+        {
+            "houseId": 315,
+            "tiles": 20
+        },
+        {
+            "houseId": 297,
+            "tiles": 20
+        },
+        {
+            "houseId": 284,
+            "tiles": 18
+        }
+    ],
+    "mapHeight": 2048,
+    "mapName": "Zorva.otbm",
+    "mapWidth": 2048,
+    "tilesWithCreatures": 0,
+    "tilesWithGround": 2635724,
+    "tilesWithHouse": 38859,
+    "tilesWithItems": 5484573,
+    "tilesWithSpawns": 0,
+    "topItems": [
+        {
+            "count": 1225820,
+            "id": 919,
+            "name": "hallowed axe"
+        },
+        {
+            "count": 506989,
+            "id": 101,
+            "name": "earth"
+        },
+        {
+            "count": 442304,
+            "id": 4526,
+            "name": "grass"
+        },
+        {
+            "count": 370190,
+            "id": 9026,
+            "name": "gate"
+        },
+        {
+            "count": 330418,
+            "id": 4608,
+            "name": "grass"
+        },
+        {
+            "count": 137000,
+            "id": 8133,
+            "name": "slain mutated pumpkin"
+        },
+        {
+            "count": 123207,
+            "id": 598,
+            "name": "strange carving"
+        },
+        {
+            "count": 114168,
+            "id": 4664,
+            "name": "dirt"
+        },
+        {
+            "count": 111136,
+            "id": 4612,
+            "name": "shallow water"
+        },
+        {
+            "count": 111009,
+            "id": 4611,
+            "name": "shallow water"
+        },
+        {
+            "count": 110990,
+            "id": 4615,
+            "name": "unknown"
+        },
+        {
+            "count": 110724,
+            "id": 4613,
+            "name": "shallow water"
+        },
+        {
+            "count": 110441,
+            "id": 4665,
+            "name": "dirt"
+        },
+        {
+            "count": 110407,
+            "id": 4609,
+            "name": "shallow water"
+        },
+        {
+            "count": 110402,
+            "id": 4616,
+            "name": "unknown"
+        },
+        {
+            "count": 110018,
+            "id": 4614,
+            "name": "shallow water"
+        },
+        {
+            "count": 109833,
+            "id": 4610,
+            "name": "shallow water"
+        },
+        {
+            "count": 109751,
+            "id": 4618,
+            "name": "unknown"
+        },
+        {
+            "count": 109661,
+            "id": 4617,
+            "name": "unknown"
+        },
+        {
+            "count": 109428,
+            "id": 4666,
+            "name": "dirt"
+        },
+        {
+            "count": 109157,
+            "id": 4619,
+            "name": "unknown"
+        },
+        {
+            "count": 94227,
+            "id": 19146,
+            "name": "torn incantation fragment"
+        },
+        {
+            "count": 87380,
+            "id": 9043,
+            "name": "yalahar coal basin"
+        },
+        {
+            "count": 69238,
+            "id": 3263,
+            "name": "gemmed lamp"
+        },
+        {
+            "count": 69131,
+            "id": 103,
+            "name": "dirt"
+        },
+        {
+            "count": 67456,
+            "id": 407,
+            "name": "grass"
+        },
+        {
+            "count": 65750,
+            "id": 6219,
+            "name": "twines"
+        },
+        {
+            "count": 64246,
+            "id": 670,
+            "name": "fiery clerical mace"
+        },
+        {
+            "count": 60205,
+            "id": 9021,
+            "name": "dead gozzler"
+        },
+        {
+            "count": 57514,
+            "id": 231,
+            "name": "sand"
+        }
+    ],
+    "totalCreatures": 0,
+    "totalItems": 9633945,
+    "totalSpawns": 0,
+    "totalTiles": 7404687
+}
